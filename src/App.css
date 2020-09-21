@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.errors-container {
+  color: red;
+  font-weight: bold;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 2%;
+}
+
+button {
+  margin: 2% auto;
+}
+
+.details-container {
+  border: 2px solid black;
+  margin: 1% auto;
+  width: 75%;
+}
